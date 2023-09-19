@@ -29,11 +29,11 @@ https://dbdiagram.io/d/65096a4202bd1c4a5ed86463
 ![Untitled](https://github.com/syaukhul08/Test-Skill-MKP/assets/61621568/22a759e8-7456-4d36-b5b2-879bfd1c5a44)
 
 D.	Skill Test
-Buat API sederhana menggunakan Golang dengan database point test C. [Uploading MKP.postman_collection.json…]()
+Buat API sederhana menggunakan Golang dengan database point test C.
 
 API tersebut adalah :
 1.	API Login dengan output JSON beserta token JWT
-2.	Api Create Terminal dengan Authorization Token dari JWT Login [Uploading MKP.postman_collection.json…]()
+2.	Api Create Terminal dengan Authorization Token dari JWT Login
 
 
 Export Postman on the Expost Postman Folder
