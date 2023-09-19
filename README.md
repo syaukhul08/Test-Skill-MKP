@@ -1,7 +1,10 @@
 B.	System Design Test 
 Anda diminta untuk merancang sebuah sistem E-Ticketing Transportasi Publik yang beroperasi 24 jam, dimana tarif ditentukan berdasarkan titik terminal ketika checkin dan titik terminal ketika checkout. Untuk titik terminal ada 5 dan mempunyai gate/gerbang validasi yang terhubung pada server (bisa 1 atau lebih). Pembayaran dilakukan menggunakan kartu prepaid (seperti pada tol) yang mampu berjalan saat offline.
+
 1.	Gambarkan desain rancangan anda
    
+   ![Capture](https://github.com/syaukhul08/Test-Skill-MKP/assets/61621568/0595dd1b-9f24-4605-b353-fdf376eead05)
+
 3. 	Ceritakan rancangan anda dengan jelas saat ada jaringan internet
 
     Ketika ada jaringan internet, sistem akan berfungsi sebagai berikut:
