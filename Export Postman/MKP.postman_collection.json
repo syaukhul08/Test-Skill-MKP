@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "a63b5b0e-999f-4ac2-9f04-a844455a2347",
+		"name": "MKP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "19856476"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Terminal",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6InN5YXVraHUiLCJlbWFpbCI6InN5YXVraHVsQGdtYWlsLmNvbSIsImV4cCI6MTY5NTEyODkyNywibmJmIjoxNjk1MTI4ODY3LCJpYXQiOjE2OTUxMjg4Njd9.iaCR7f4xUVzb3qQpgFHXSZcH0BxNCR5X8EP4wMRnNak",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Terminal 3\",\r\n    \"location\": \"Jogja\"\r\n}"
+				},
+				"url": "http://localhost:8080/api/auth/terminal"
+			},
+			"response": []
+		}
+	]
+}
